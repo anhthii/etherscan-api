@@ -22,6 +22,8 @@ const (
 	Goerli Network = "api-goerli"
 	// Tobalaba Testnet
 	Tobalaba Network = "api-tobalaba"
+	// Sepolia Testnet
+	Sepolia Network = "api-sepolia"
 )
 
 // Network is ethereum network type (mainnet, ropsten, etc)
